@@ -127,12 +127,20 @@ Systems programming      →  C / C++
 ### Let's Connect
 
 <p align="center">
-  <a href="https://github.com/hardikkhanduja">
+  <a href="https://github.com/Hardikkhanduja">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/hardikkhanduja">
+  <a href="https://www.linkedin.com/in/hardik-khanduja-60a9a6287">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/HardikKhanduja">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:khanduja.hardik001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
