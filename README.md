@@ -49,8 +49,7 @@ I'm a full stack developer with a strong interest in AI/ML and a passion for bui
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hardikkhanduja&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikkhanduja&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HardikKhanduja&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 
