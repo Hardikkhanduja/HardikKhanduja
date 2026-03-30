@@ -48,9 +48,7 @@ I'm a full stack developer with a strong interest in AI/ML and a passion for bui
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HardikKhanduja&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+ 
 
 
 
@@ -67,29 +65,35 @@ I'm a full stack developer with a strong interest in AI/ML and a passion for bui
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/hardikkhanduja/collabboard">
+      <a href="https://github.com/Hardikkhanduja/CollabBoard">
         <img src="https://img.shields.io/badge/CollabBoard-Real--time%20Collaboration-6C63FF?style=for-the-badge&logo=googledocs&logoColor=white" />
       </a>
+      <br/>
+      <a href="https://collab-board-coral.vercel.app/">🔗 Live Demo</a>
       <br/><br/>
-      <p>A real-time collaborative whiteboard built with <strong>Yjs + CRDTs</strong> for conflict-free sync across multiple users. Supports live cursors, drawing, and shared state.</p>
+      <p>Real-time collaborative whiteboard — draw, annotate, and create together, live. Features live cursors, board management, invite codes, snapshots, and Clerk authentication.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Yjs-6C63FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/hardikkhanduja/getwell-medicosa">
-        <img src="https://img.shields.io/badge/GetWell%20Medicosa-Medical%20Web%20Suite-00B4D8?style=for-the-badge&logo=health&logoColor=white" />
+      <a href="https://github.com/Hardikkhanduja/GetwellMedicos">
+        <img src="https://img.shields.io/badge/GetWell%20Medicos-Pharmacy%20Website-00B4D8?style=for-the-badge&logo=stayfree&logoColor=white" />
       </a>
+      <br/>
+      <a href="https://getwell-medicos.vercel.app/">🔗 Live Demo</a>
       <br/><br/>
-      <p>A full-featured medical web suite for patients and doctors — appointments, records, and health tracking in one clean interface.</p>
+      <p>Online presence website for a licensed pharmacy in Chandigarh. Features prescription requests via WhatsApp, Google Maps embed, services info, and a responsive design from 360px up.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       </p>
     </td>
   </tr>
